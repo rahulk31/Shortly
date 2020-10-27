@@ -1,3 +1,8 @@
+# Description
+
+A portal for shortening your long length url into easy-to-remember short urls.
+It also gives stats about the number of clicks on that short url.
+
 # Shortly Screenshots
 
 ![Shortly](https://github.com/settingsingh/Shortly/blob/main/screenshots/Capture.PNG)
