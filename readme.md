@@ -28,4 +28,4 @@ Live here:
 - CSS
 - Ejs
 
-### Connect me on Twitter @settingsingh
+
